@@ -1,0 +1,12 @@
+/*
+ * Author: Oladapo Okikiola
+ */
+body {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	color: blue;
+	font-size: 1000%;
+	text-align: center;
+}
